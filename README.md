@@ -1,1 +1,2 @@
-This is a website for a local government watchdog group called Marbletown Watch.  
+This is a website for a local government watchdog group called Marbletown Watch.  For now just a Bootstrap based website.
+Planning to add interact mapping using Leaf frame work and tax parcel GIS data.
