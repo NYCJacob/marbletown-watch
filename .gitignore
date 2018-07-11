@@ -2,3 +2,4 @@
 node_modules/
 examples/
 assets/
+dev/js/mapping.js
