@@ -7,11 +7,11 @@ var connect      = require('gulp-connect');
 var open         = require('gulp-open');
 
 var Paths = {
-  HERE                 : './',
+  HERE                 : './dev',
   DIST                 : 'dist/',
-  CSS                  : './assets/css/',
-  SCSS_TOOLKIT_SOURCES : './assets/scss/material-kit.scss',
-  SCSS                 : './assets/scss/**/**'
+  CSS                  : './dev/assets/css/',
+  SCSS_TOOLKIT_SOURCES : './dev/assets/scss/material-kit.scss',
+  SCSS                 : './dev/assets/scss/**/**'
 };
 
 gulp.task('compile:scss', function () {
